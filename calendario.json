@@ -1,0 +1,20 @@
+{
+  "zona_horaria": "America/Bogota",
+  "publicaciones": [
+    {
+      "id": "01_casa-dos-maderos",
+      "fecha": "2026-10-08T19:00:00-05:00",
+      "estado": "borrador"
+    },
+    {
+      "id": "02_teatro-mac-douall",
+      "fecha": "2026-10-13T19:00:00-05:00",
+      "estado": "borrador"
+    },
+    {
+      "id": "03_casa-horizonte",
+      "fecha": "2026-10-16T19:00:00-05:00",
+      "estado": "borrador"
+    }
+  ]
+}
