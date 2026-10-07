@@ -21,6 +21,66 @@
       "estado": "publicado",
       "media_id": "18158630614507121",
       "publicado_en": "2026-10-06T22:44:02+00:00"
+    },
+    {
+      "id": "04_edificio-citark",
+      "fecha": "2026-10-09T19:00:00-05:00",
+      "estado": "borrador"
+    },
+    {
+      "id": "05_edificio-santa-ana",
+      "fecha": "2026-10-13T19:00:00-05:00",
+      "estado": "borrador"
+    },
+    {
+      "id": "06_proyecto-palm",
+      "fecha": "2026-10-16T19:00:00-05:00",
+      "estado": "borrador"
+    },
+    {
+      "id": "07_m122",
+      "fecha": "2026-10-20T19:00:00-05:00",
+      "estado": "borrador"
+    },
+    {
+      "id": "08_casa-paraiso",
+      "fecha": "2026-10-23T19:00:00-05:00",
+      "estado": "borrador"
+    },
+    {
+      "id": "09_clt-metroplus",
+      "fecha": "2026-10-27T19:00:00-05:00",
+      "estado": "borrador"
+    },
+    {
+      "id": "10_torre-genesis",
+      "fecha": "2026-10-30T19:00:00-05:00",
+      "estado": "borrador"
+    },
+    {
+      "id": "11_west-knoll",
+      "fecha": "2026-11-03T19:00:00-05:00",
+      "estado": "borrador"
+    },
+    {
+      "id": "12_secretaria-movilidad",
+      "fecha": "2026-11-06T19:00:00-05:00",
+      "estado": "borrador"
+    },
+    {
+      "id": "13_mystique-virrey",
+      "fecha": "2026-11-10T19:00:00-05:00",
+      "estado": "borrador"
+    },
+    {
+      "id": "14_ceylan-34",
+      "fecha": "2026-11-13T19:00:00-05:00",
+      "estado": "borrador"
+    },
+    {
+      "id": "15_san-vicente",
+      "fecha": "2026-11-17T19:00:00-05:00",
+      "estado": "borrador"
     }
   ]
 }
