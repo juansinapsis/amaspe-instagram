@@ -25,57 +25,79 @@
     {
       "id": "04_edificio-citark",
       "fecha": "2026-10-06T20:00:00-05:00",
-      "estado": "aprobado"
+      "estado": "publicado",
+      "media_id": "18020595170945236",
+      "publicado_en": "2026-10-07T01:16:34+00:00"
     },
     {
       "id": "05_edificio-santa-ana",
       "fecha": "2026-10-06T20:00:00-05:00",
-      "estado": "aprobado"
+      "estado": "publicado",
+      "media_id": "18111616574137983",
+      "publicado_en": "2026-10-07T01:16:34+00:00"
     },
     {
       "id": "06_proyecto-palm",
       "fecha": "2026-10-06T20:00:00-05:00",
-      "estado": "aprobado"
+      "estado": "publicado",
+      "media_id": "18061615709533723",
+      "publicado_en": "2026-10-07T01:16:34+00:00"
     },
     {
       "id": "07_m122",
       "fecha": "2026-10-06T20:00:00-05:00",
-      "estado": "aprobado"
+      "estado": "publicado",
+      "media_id": "18096736910398637",
+      "publicado_en": "2026-10-07T01:16:34+00:00"
     },
     {
       "id": "08_casa-paraiso",
       "fecha": "2026-10-06T20:00:00-05:00",
-      "estado": "aprobado"
+      "estado": "publicado",
+      "media_id": "18150858163497387",
+      "publicado_en": "2026-10-07T01:16:34+00:00"
     },
     {
       "id": "09_clt-metroplus",
       "fecha": "2026-10-06T20:00:00-05:00",
-      "estado": "aprobado"
+      "estado": "publicado",
+      "media_id": "18182351773425017",
+      "publicado_en": "2026-10-07T01:16:34+00:00"
     },
     {
       "id": "10_torre-genesis",
       "fecha": "2026-10-06T20:00:00-05:00",
-      "estado": "aprobado"
+      "estado": "publicado",
+      "media_id": "18138988306704363",
+      "publicado_en": "2026-10-07T01:16:34+00:00"
     },
     {
       "id": "11_west-knoll",
       "fecha": "2026-10-06T20:00:00-05:00",
-      "estado": "aprobado"
+      "estado": "publicado",
+      "media_id": "18117404917784203",
+      "publicado_en": "2026-10-07T01:16:34+00:00"
     },
     {
       "id": "12_secretaria-movilidad",
       "fecha": "2026-10-06T20:00:00-05:00",
-      "estado": "aprobado"
+      "estado": "publicado",
+      "media_id": "18097259726661326",
+      "publicado_en": "2026-10-07T01:16:34+00:00"
     },
     {
       "id": "13_mystique-virrey",
       "fecha": "2026-10-06T20:00:00-05:00",
-      "estado": "aprobado"
+      "estado": "publicado",
+      "media_id": "18191065324406474",
+      "publicado_en": "2026-10-07T01:16:34+00:00"
     },
     {
       "id": "14_ceylan-34",
       "fecha": "2026-10-06T20:00:00-05:00",
-      "estado": "aprobado"
+      "estado": "publicado",
+      "media_id": "17912709609532877",
+      "publicado_en": "2026-10-07T01:16:34+00:00"
     },
     {
       "id": "15_san-vicente",
